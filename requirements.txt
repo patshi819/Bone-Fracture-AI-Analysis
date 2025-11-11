@@ -5,3 +5,5 @@ scikit-learn
 notebook
 opencv-python
 torch
+scikit-image
+xgboost
