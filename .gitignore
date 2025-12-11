@@ -1,5 +1,7 @@
 AI_venv/
 .DS_Store
+FracAtlas/.DS_Store
+FracAtlas/Annotations/.DS_Store
 
 __pycache__/
 *.pyc
